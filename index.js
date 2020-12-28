@@ -10,6 +10,8 @@ const anonymous = (Object.keys(config.ftp.credentials).length === 0);
 const ftpServer = new FtpSrv({
     url: config.ftp.url,
     pasv_url: config.ftp.url,
+    pasv_min: 21000,
+    pasv_max: 21010,
     anonymous: anonymous,
 });
 

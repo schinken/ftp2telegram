@@ -1,6 +1,6 @@
 module.exports = {
     ftp: {
-        url: 'ftp://0.0.0.0:9021',
+        url: 'ftp://0.0.0.0:21',
         credentials: {
             'username': 'password'
         }
