@@ -14,7 +14,6 @@ const ftpServer = new FtpSrv({
 });
 
 ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
-
     if (!anonymous) {
         if (!config.ftp.credentials[username] || config.ftp.credentials[username] !== password) {
             return reject();
@@ -37,7 +36,6 @@ ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
     });
 });
 
-
 ftpServer
     .listen()
-    .then(_ => console.log("Server is running"));
+    .then(_ => console.log('Server is running'));
