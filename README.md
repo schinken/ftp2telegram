@@ -27,7 +27,12 @@ Uploads only reside in memory which is much cleaner than running a regular FTP-S
 You can either run ftp2telegram directly or use the provided `Dockerfile`.<br/>
 In both cases, you will first need to check out this repository and copy the `config/default.js` to `config/production.js` while also of course editing it for your setup.
 
-If you're using docker, you'll know how to use docker.
+If you're using docker, try this:
+
+```
+docker build -t ftp2telegram:latest .
+docker run --dns 8.8.8.8 -p 9021:21 -p 21000-21010:21000-21010 --rm -it  ftp2telegram:latest
+```
 
 If you're running it locally, you'll need to do the usual nodejs foo:
 
