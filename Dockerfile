@@ -9,5 +9,5 @@ RUN true \
 FROM node:alpine
 WORKDIR /usr/src/app
 COPY --from=builder /usr/src/app .
-EXPOSE 9021
-CMD node index.js
+EXPOSE 21
+CMD npm run start

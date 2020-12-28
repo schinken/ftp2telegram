@@ -1,0 +1,16 @@
+#/etc/systemd/system/ftp2telegram.service
+[Unit]
+Description=ftp2telegram
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+ExecStart=/usr/local/bin/npm run start
+WorkingDirectory=/home/pi/ftp2telegram/
+RestartSec=2
+TimeoutStartSec=5
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
