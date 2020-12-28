@@ -10,4 +10,4 @@ FROM node:alpine
 WORKDIR /usr/src/app
 COPY --from=builder /usr/src/app .
 EXPOSE 21
-CMD node index.js
+CMD npm run start
