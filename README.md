@@ -1,10 +1,9 @@
-# ftp2telegram
-
 <div align="center">
-    <img src="https://github.com/schinken/ftp2telegram/blob/master/assets/ftp2telegram.svg" width="600" alt="ftp2telegram">
+    <h2>ftp2telegram</h2>
+    <img src="https://github.com/schinken/ftp2telegram/blob/master/assets/ftp2telegram.svg" width="500" alt="ftp2telegram">
+    <div>A standalone FTP Server forwarding everything to Telegram Chats/Groups</div>
 </div>
 
-A standalone FTP Server forwarding everything to Telegram Chats/Groups
 
 ## Introduction
 
