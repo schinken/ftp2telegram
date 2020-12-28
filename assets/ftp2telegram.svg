@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="209.22049mm"
+   height="98.493271mm"
+   viewBox="0 0 209.22049 98.493271"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="ftp2telegram.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="a"
+       x1="160.08"
+       x2="100.08"
+       y1="40.079998"
+       y2="180"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,107.34524,65.678576)">
+      <stop
+         offset="0"
+         stop-color="#37aee2"
+         id="stop852" />
+      <stop
+         offset="1"
+         stop-color="#1e96c8"
+         id="stop854" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28890034,0,0,0.24231311,107.34524,65.678576)"
+       id="b"
+       x1="123.67709"
+       x2="146.50331"
+       y1="131.03925"
+       y2="174.66003">
+      <stop
+         offset="0"
+         stop-color="#eff7fc"
+         id="stop857" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         id="stop859" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-1230.0562"
+     inkscape:cy="-288.84455"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="25.279063,107.69867"
+       orientation="0,1"
+       id="guide1475"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="42.854959,98.060286"
+       orientation="1,0"
+       id="guide1578"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.707487,98.446406"
+       orientation="1,0"
+       id="guide1589"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.707487,98.446416"
+       orientation="0,1"
+       id="guide1608"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.9277802,-99.6414)">
+    <rect
+       style="opacity:1;fill:#b4b4b4;fill-opacity:1;stroke:#585858;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.56188965;stroke-opacity:1"
+       id="rect1490"
+       width="207.22049"
+       height="8.650568"
+       x="9.9277802"
+       y="185.63326"
+       ry="4.325284"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998" />
+    <rect
+       style="opacity:1;fill:#b4b4b4;fill-opacity:1;stroke:#585858;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.56188965;stroke-opacity:1"
+       id="rect1490-8"
+       width="36.463848"
+       height="8.8867607"
+       x="-194.27956"
+       y="49.465473"
+       ry="4.4433804"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998" />
+    <path
+       style="opacity:1;fill:#585858;fill-opacity:1;stroke:none;stroke-width:0.71648598;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.56188965;stroke-opacity:1"
+       d="m 185.50586,666.22656 c -3.71531,0 -6.70703,2.99173 -6.70703,6.70703 v 16.4961 H 159.5918 c -6.98333,0 -12.60547,5.62214 -12.60547,12.60547 V 736.25 c 0,6.98333 5.62214,12.60547 12.60547,12.60547 h 88.3164 c 6.98333,0 12.60547,-5.62214 12.60547,-12.60547 v -34.21484 c 0,-6.98333 -5.62214,-12.60547 -12.60547,-12.60547 h -19.20703 v -16.4961 c 0,-3.7153 -2.99172,-6.70703 -6.70703,-6.70703 z"
+       id="rect1490-0"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#b4b4b4;fill-opacity:1;stroke:#585858;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.56188965;stroke-opacity:1"
+       id="rect1490-8-2"
+       width="36.463848"
+       height="8.8867607"
+       x="-194.27956"
+       y="164.88995"
+       ry="4.4433804"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998" />
+    <g
+       id="g1467"
+       transform="matrix(1.0537893,0,0,1.0284286,22.756269,33.238915)"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998">
+      <circle
+         id="circle864"
+         r="31.75"
+         cy="97.428574"
+         cx="139.09523"
+         style="fill:url(#a);stroke:#585858;stroke-width:1.72450984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path866"
+         d="m 133.27441,111.98066 c -1.0287,0 -0.85382,-0.38841 -1.20862,-1.3679 l -3.02472,-9.95442 23.28334,-13.813104"
+         style="fill:#c8daea;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path868"
+         d="m 133.27441,111.98066 c 0.79375,0 1.14432,-0.36301 1.5875,-0.79375 l 4.23333,-4.11639 -5.28056,-3.18426"
+         style="fill:#a9c9dd;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path870"
+         d="m 133.81416,103.88705 12.79525,9.4533 c 1.46023,0.80566 2.5138,0.38841 2.8776,-1.35546 l 5.20833,-24.543544 c 0.53313,-2.13783 -0.81492,-3.1078 -2.21192,-2.47359 l -30.58319,11.79274 c -2.08756,0.83741 -2.07512,2.0021 -0.38047,2.52095 l 7.84834,2.449784 18.16973,-11.463074 c 0.85778,-0.52017 1.64518,-0.24077 0.99906,0.33284"
+         style="fill:url(#b);stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#585858;fill-opacity:1;stroke:none;stroke-width:0.18957025;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.56188965;stroke-opacity:1"
+       d="m 164.50624,176.2668 c -0.98301,0 -1.77456,0.79157 -1.77456,1.77457 v 4.3646 h -5.08186 c -1.84768,0 -3.3352,1.48752 -3.3352,3.33519 v 9.05268 c 0,1.84767 1.48752,3.3352 3.3352,3.3352 h 23.36704 c 1.84767,0 3.3352,-1.48753 3.3352,-3.3352 v -9.05268 c 0,-1.84767 -1.48753,-3.33519 -3.3352,-3.33519 H 175.935 v -4.3646 c 0,-0.983 -0.79156,-1.77457 -1.77457,-1.77457 z"
+       id="rect1490-0-6"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998" />
+    <path
+       style="opacity:1;fill:#e9ca7f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.56188965;stroke-opacity:1"
+       d="m 21.019901,100.6414 c -2.431397,0 -4.388879,1.95748 -4.388879,4.38888 v 58.1241 c 0,2.4314 1.957482,4.38888 4.388879,4.38888 h 66.061605 c 2.43139,0 4.38888,-1.95748 4.38888,-4.38888 v -50.16945 c 0,-2.92728 -2.11022,-4.31146 -4.80824,-4.31146 H 60.381842 l -8.59911,-8.03207 z"
+       id="rect1568"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssscsccccs"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998" />
+    <path
+       style="fill:#efd8a0;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.580207,159.08892 h 65.039027 c 1.206136,-0.0293 2.437033,-0.97953 2.437033,-2.22359 v -48.29035 l 5.211754,0.40091 2.138156,2.40542 -0.267269,53.053 -1.069078,2.13816 -3.073601,1.20271 -66.55011,-0.4009 c 0,0 -2.303262,-1.15404 -2.397756,-1.34303 -0.09449,-0.18899 -1.464658,-2.88207 -1.464658,-3.07106 0,-0.18899 -0.0035,-3.87127 -0.0035,-3.87127 z"
+       id="path1591"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccscc"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#585858;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.56188965;stroke-opacity:1"
+       d="m 21.019904,100.6414 c -2.431397,0 -4.38888,1.95748 -4.38888,4.38888 v 58.1241 c 0,2.4314 1.957483,4.38888 4.38888,4.38888 h 66.0616 c 2.431397,0 4.38888,-1.95748 4.38888,-4.38888 v -50.16945 c 0,-2.92728 -2.110216,-4.31146 -4.808239,-4.31146 H 60.381842 l -8.599104,-8.03207 z"
+       id="rect1568-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssscsccccs"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998" />
+    <g
+       aria-label="FTP"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       id="text1612"
+       inkscape:export-filename="C:\Users\schinken\Desktop\ftp2telegram.png"
+       inkscape:export-xdpi="69.559998"
+       inkscape:export-ydpi="69.559998">
+      <path
+         d="m 42.549097,129.44472 h -8.301303 v 4.63021 h 7.132726 v 1.94027 h -7.132726 v 7.90443 h -2.182812 v -16.41519 h 10.484115 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:2.05845857px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="path1614"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 59.148614,129.44472 h -5.864931 v 14.47491 H 51.100871 V 129.44472 H 45.23594 v -1.94028 h 13.912674 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:2.05845857px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="path1616"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 74.171655,132.46538 q 0,1.0914 -0.385851,2.02847 -0.374826,0.92604 -1.058333,1.60955 -0.848872,0.84887 -2.006424,1.27882 -1.157552,0.41892 -2.921441,0.41892 h -2.182812 v 6.11849 h -2.182813 v -16.41519 h 4.45382 q 1.477257,0 2.502517,0.25356 1.025261,0.24253 1.819011,0.7717 0.937066,0.62839 1.444184,1.56545 0.518142,0.93707 0.518142,2.37023 z m -2.271007,0.0551 q 0,-0.84887 -0.297656,-1.47726 -0.297656,-0.62838 -0.903993,-1.02526 -0.529167,-0.34175 -1.212674,-0.48507 -0.672482,-0.15434 -1.708767,-0.15434 h -2.160764 v 6.55946 h 1.841059 q 1.322917,0 2.14974,-0.23151 0.826822,-0.24253 1.344965,-0.76067 0.518142,-0.52917 0.727604,-1.11346 0.220486,-0.58429 0.220486,-1.31189 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:2.05845857px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="path1618"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

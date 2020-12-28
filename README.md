@@ -1,5 +1,10 @@
 # ftp2telegram
 
+<div align="center">
+    <img src="https://github.com/schinken/ftp2telegram/blob/master/assets/ftp2telegram.svg" width="800" alt="valetudo">
+    <p align="center"><h2>Free your vacuum from the cloud</h2></p>
+</div>
+
 A standalone FTP Server forwarding everything to Telegram Chats/Groups
 
 ## Introduction
