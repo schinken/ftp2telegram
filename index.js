@@ -1,4 +1,4 @@
-const config = require('./config/production');
+const config = require('./config/default');
 const TelegramProxy = require('./lib/TelegramProxy');
 const MemoryFileSystem = require('./lib/MemoryFileSystem');
 
