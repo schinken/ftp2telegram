@@ -3,5 +3,7 @@ services:
     build: .
     restart: always
     ports:
-      - '9021:21'
+      - '21:21'
       - '21000-21010:21000-21010'
+    volumes:
+      - './config:/usr/src/app/config:ro'
