@@ -9,9 +9,9 @@ const telegramProxy = new TelegramProxy(config.telegram);
 const anonymous = (Object.keys(config.ftp.credentials).length === 0);
 const ftpServer = new FtpSrv({
     url: config.ftp.url,
-    pasv_url: config.ftp.url,
-    pasv_min: 21000,
-    pasv_max: 21010,
+    pasv_url: config.ftp.pasv.ip,
+    pasv_min: config.ftp.pasv.portMin,
+    pasv_max: config.ftp.pasv.portMax,
     anonymous: anonymous,
 });
 
