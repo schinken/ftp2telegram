@@ -15,6 +15,8 @@ Hard to configure. Even harder to secure. ASCII Mode(???)
 
 Therefore, the idea is to simply use the least amount of FTP possible and forward everything to better protocols/means of data consumption.
 
+It gets this done by using the awesome `ftp-srv` node library and implementing an in-memory filesystem, working as a FTP DropBox, acknowledging every command like it happend for real. Including CWD, CHDIR, .. 
+
 ## Description
 
 ftp2telegram is a standalone FTP server which accepts images, animations, videos, audios or even documents uploaded and forwards them to
