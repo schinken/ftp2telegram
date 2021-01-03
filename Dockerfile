@@ -10,4 +10,4 @@ FROM node:alpine
 WORKDIR /usr/src/app
 COPY --from=builder /usr/src/app .
 EXPOSE 21 21000-21010
-CMD npm run start
+CMD ["npm", "start"]
