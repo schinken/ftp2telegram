@@ -16,6 +16,8 @@ const ftpServer = new FtpSrv({
 });
 
 ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
+    console.log("ftp.login", username, password);
+
     if (!anonymous) {
         if (!config.ftp.credentials[username] || config.ftp.credentials[username] !== password) {
             return reject();
@@ -25,9 +27,11 @@ ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
     const memoryFileSystem = new MemoryFileSystem();
 
     connection.on('STOR', (error, filename) => {
+        console.log("ftp.STOR", error, filename);
         const stream = memoryFileSystem.getUploaded(filename);
 
         if (stream) {
+            console.log("stream", filename);
             telegramProxy.send(filename, stream);
             memoryFileSystem.removeUploaded(filename);
         }
