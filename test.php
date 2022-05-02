@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ALL);
     $file = 'index.js';
     $fp = fopen($file, 'r');
 
@@ -19,9 +20,9 @@
 
     var_dump(ftp_nlist($ftp, "."));
 
-    $dir = 'foobar';
-    ftp_mkdir($ftp, $dir);
-    ftp_chdir($ftp, $dir);
+ftp_mkdir($ftp, "foobar");
+
+    ftp_chdir($ftp, "foobar");
 
     var_dump(ftp_nlist($ftp, "."));
 
