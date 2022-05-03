@@ -6,7 +6,7 @@ const FtpSrv = require('ftp-srv');
 
 const telegramProxy = new TelegramProxy(config.telegram);
 
-const anonymous = (Object.keys(config.ftp.credentials).length === 0);
+const anonymous = (!config.ftp.credentials || Object.keys(config.ftp.credentials).length === 0);
 const ftpServer = new FtpSrv({
     url: config.ftp.url,
     pasv_url: config.ftp.pasv.ip,

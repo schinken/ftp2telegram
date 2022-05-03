@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "file-type": "^16.5.3",
     "ftp-srv": "^4.4.0",
     "memory-stream": "^1.0.0",
-    "mime": "^2.4.7",
     "telebot": "^1.4.1"
   }
 }
