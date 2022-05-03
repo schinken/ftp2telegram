@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "file-type": "^16.5.3",
+    "file-type": "^17.1.1",
+    "fix-esm": "^1.0.1",
     "ftp-srv": "^4.4.0",
     "memory-stream": "^1.0.0",
     "telebot": "^1.4.1"
