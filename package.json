@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "file-type": "^16.5.3",
     "ftp-srv": "^4.4.0",
+    "magic-bytes.js": "^1.0.11",
     "memory-stream": "^1.0.0",
     "telebot": "^1.4.1"
   }
