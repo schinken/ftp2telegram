@@ -1,6 +1,7 @@
 const config = require('./config/production');
 const TelegramProxy = require('./lib/TelegramProxy');
 const MemoryFileSystem = require('./lib/MemoryFileSystem');
+const logger = require('./lib/Logger');
 
 const FtpSrv = require('ftp-srv');
 
@@ -15,7 +16,11 @@ const ftpServer = new FtpSrv({
     anonymous: anonymous,
 });
 
+logger.info('Server ready');
+
 ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
+    logger.info({ip: connection.ip}, 'New connection');
+
     if (!anonymous) {
         if (!config.ftp.credentials[username] || config.ftp.credentials[username] !== password) {
             return reject();
@@ -25,8 +30,9 @@ ftpServer.on('login', ({connection, username, password}, resolve, reject) => {
     const memoryFileSystem = new MemoryFileSystem();
 
     connection.on('STOR', (error, filename) => {
-        const stream = memoryFileSystem.getUploaded(filename);
+        logger.info({filename}, 'Upload finished');
 
+        const stream = memoryFileSystem.getUploaded(filename);
         if (stream) {
             telegramProxy.send(filename, stream);
             memoryFileSystem.removeUploaded(filename);
