@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bunyan": "^1.8.15",
-    "ftp-srv": "^4.4.0",
+    "ftp-srv": "^4.6.0",
     "is-in-subnet": "^4.0.1",
     "magic-bytes.js": "^1.0.11",
     "memory-stream": "^1.0.0",
